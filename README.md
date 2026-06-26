@@ -30,7 +30,7 @@ ADAS-Driver-Monitoring-System
 ![Lane Detection](lane_detection/Figure_1.png)
 
 😴 疲劳驾驶检测：实时检测驾驶员闭眼、打哈欠及头部姿态变化。
-![Fatigue Detection](screenshots/face_recognition_result.png)
+![screenshots](screenshots/face_recognition_result.png)
 
 3️⃣ 运行疲劳驾驶检测：
 python fatigue_detection/main.py
