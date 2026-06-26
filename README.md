@@ -14,6 +14,11 @@ ADAS Driver Monitoring System Based on OpenCV and MediaPipe
 🎥 多场景支持：支持图片检测、视频检测及摄像头实时检测。
 
 🛠 技术栈：Python、、OpenCV、MediaPipe、NumPy、Pillow、LBPH
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
+
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FaceMesh-orange)
 
 📂 项目结构：
 ADAS-Driver-Monitoring-System
