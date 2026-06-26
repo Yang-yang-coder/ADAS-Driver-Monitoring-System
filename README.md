@@ -27,7 +27,7 @@ ADAS-Driver-Monitoring-System
 
 📸 项目展示：
 🛣️ 车道线检测：展示车辆行驶过程中车道线检测效果。
-![Lane Detection](screenshots/lane_detection.png)
+![Lane Detection](screenshots/Figure_1.png)
 
 😴 疲劳驾驶检测：实时检测驾驶员闭眼、打哈欠及头部姿态变化。
 ![Fatigue Detection](screenshots/fatigue_detection.png)
